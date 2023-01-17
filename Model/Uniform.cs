@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Model
 {
+    /// <summary>
+    /// равномерное движение
+    /// </summary>
     [Serializable]
     public class Uniform : IMovement
     {

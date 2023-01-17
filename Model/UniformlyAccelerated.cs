@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Model
 {
+    /// <summary>
+    /// равноускоренное движение
+    /// </summary>
     [Serializable]
     public class UniformlyAccelerated : IMovement
     {

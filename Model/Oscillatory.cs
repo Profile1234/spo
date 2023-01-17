@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Model
 {
+    /// <summary>
+    /// колебательное движение
+    /// </summary>
     [Serializable]
     public class Oscillatory : IMovement
     {
